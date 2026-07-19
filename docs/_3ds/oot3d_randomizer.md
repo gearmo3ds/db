@@ -27,16 +27,16 @@ license: other
 license_name: Other
 llm_generation: unknown
 prerelease:
-  download_page: https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-69edbe
+  download_page: https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-171194
   downloads:
     OoT3D_Randomizer.3dsx:
-      size: 6113660
+      size: 6104872
       size_str: 5 MiB
-      url: https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/OoT3D_Randomizer.3dsx
+      url: https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/OoT3D_Randomizer.3dsx
     OoT3D_Randomizer.cia:
       size: 4457408
       size_str: 4 MiB
-      url: https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/OoT3D_Randomizer.cia
+      url: https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/OoT3D_Randomizer.cia
   qr:
     OoT3D_Randomizer.cia: https://db.universal-team.net/assets/images/qr/prerelease/oot3d_randomizer-cia.png
   update_notes: '<p dir="auto">Please note that these are DEVELOPMENT builds and may
@@ -50,52 +50,41 @@ prerelease:
 
     CIA QR Code:<br>
 
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/cia.png"><img
-    src="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/cia.png"
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/cia.png"><img
+    src="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/cia.png"
     alt="CIA Download" style="max-width: 100%;"></a><br>
 
     3DSX QR Code:<br>
 
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/3dsx.png"><img
-    src="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/3dsx.png"
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/3dsx.png"><img
+    src="https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/3dsx.png"
     alt="3DSX Download" style="max-width: 100%;"></a></p>
 
-    <p dir="auto">Changes Since <a href="https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-754875">Nightly-754875</a>
+    <p dir="auto">Changes Since <a href="https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-69edbe">Nightly-69edbe</a>
     🛠:</p>
 
     <ul dir="auto">
 
-    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/69edbe39cd044d3262102ded68a94b92c07cdbdc">69edbe39</a>
-    - Refactor/spirit temple sub-room based logic -&gt; Early child section (<a class="issue-link
-    js-issue-link" data-error-text="Failed to load title" data-id="4826181689" data-permission-text="Title
-    is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/844"
-    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/844/hovercard"
-    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/844">#844</a>)</li>
+    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/171194259ef26a090867baded3c8aeebb3b20a27">17119425</a>
+    - Readded B2F underwater hearts in Deku tree (<a class="issue-link js-issue-link"
+    data-error-text="Failed to load title" data-id="4923315463" data-permission-text="Title
+    is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/847"
+    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/847/hovercard"
+    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/847">#847</a>)</li>
 
-    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/5e971003440d588a38f5f5cd73fca16985bdbff5">5e971003</a>
-    - Update handling of pending items in water (<a class="issue-link js-issue-link"
-    data-error-text="Failed to load title" data-id="4808627165" data-permission-text="Title
-    is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/843"
-    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/843/hovercard"
-    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/843">#843</a>)</li>
+    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/46511f9b1c1adda9002ef9b120e5a0c43e865a8d">46511f9b</a>
+    - Add sub-option for Playthrough Hints Specificity (<a class="issue-link js-issue-link"
+    data-error-text="Failed to load title" data-id="4914183483" data-permission-text="Title
+    is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/846"
+    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/846/hovercard"
+    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/846">#846</a>)</li>
 
-    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/33b96d8a0f0cc39a5bf1d1ea3e73088cfb638af8">33b96d8a</a>
-    - Fixed GF key logic in fast setting (<a class="issue-link js-issue-link" data-error-text="Failed
-    to load title" data-id="4805886988" data-permission-text="Title is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/842"
-    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/842/hovercard"
-    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/842">#842</a>)</li>
-
-    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/6d0d736461916572a6a4c72df4d1034ea2dfc360">6d0d7364</a>
-    - Recovery heart shuffle (<a class="issue-link js-issue-link" data-error-text="Failed
-    to load title" data-id="4792095498" data-permission-text="Title is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/840"
-    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/840/hovercard"
-    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/840">#840</a>)</li>
-
-    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/b80fad6cc94a6bfd1d29141ae471a0953b3207af">b80fad6c</a>
-    - Fix equipment deletion patch (<a class="issue-link js-issue-link" data-error-text="Failed
-    to load title" data-id="4797799721" data-permission-text="Title is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/841"
-    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/841/hovercard"
-    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/841">#841</a>)</li>
+    <li><a href="https://github.com/gamestabled/OoT3D_Randomizer/commit/abb3721490afa34f6f298bcaf0e7deb06198bb90">abb37214</a>
+    - Add initialization checks for location table (<a class="issue-link js-issue-link"
+    data-error-text="Failed to load title" data-id="4914149199" data-permission-text="Title
+    is private" data-url="https://github.com/gamestabled/OoT3D_Randomizer/issues/845"
+    data-hovercard-type="pull_request" data-hovercard-url="/gamestabled/OoT3D_Randomizer/pull/845/hovercard"
+    href="https://github.com/gamestabled/OoT3D_Randomizer/pull/845">#845</a>)</li>
 
     </ul>'
   update_notes_md: 'Please note that these are DEVELOPMENT builds and may not be entirely
@@ -109,33 +98,27 @@ prerelease:
 
     CIA QR Code:
 
-    ![CIA Download](https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/cia.png)
+    ![CIA Download](https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/cia.png)
 
     3DSX QR Code:
 
-    ![3DSX Download](https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-69edbe/3dsx.png)
+    ![3DSX Download](https://github.com/gamestabled/OoT3D_Randomizer/releases/download/Nightly-171194/3dsx.png)
 
 
-    Changes Since [Nightly-754875](https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-754875)
+    Changes Since [Nightly-69edbe](https://github.com/gamestabled/OoT3D_Randomizer/releases/tag/Nightly-69edbe)
     🛠:
 
-    - [69edbe39](http://github.com/gamestabled/OoT3D_Randomizer/commit/69edbe39cd044d3262102ded68a94b92c07cdbdc)
-    - Refactor/spirit temple sub-room based logic -> Early child section (#844)
+    - [17119425](http://github.com/gamestabled/OoT3D_Randomizer/commit/171194259ef26a090867baded3c8aeebb3b20a27)
+    - Readded B2F underwater hearts in Deku tree (#847)
 
-    - [5e971003](http://github.com/gamestabled/OoT3D_Randomizer/commit/5e971003440d588a38f5f5cd73fca16985bdbff5)
-    - Update handling of pending items in water (#843)
+    - [46511f9b](http://github.com/gamestabled/OoT3D_Randomizer/commit/46511f9b1c1adda9002ef9b120e5a0c43e865a8d)
+    - Add sub-option for Playthrough Hints Specificity (#846)
 
-    - [33b96d8a](http://github.com/gamestabled/OoT3D_Randomizer/commit/33b96d8a0f0cc39a5bf1d1ea3e73088cfb638af8)
-    - Fixed GF key logic in fast setting (#842)
-
-    - [6d0d7364](http://github.com/gamestabled/OoT3D_Randomizer/commit/6d0d736461916572a6a4c72df4d1034ea2dfc360)
-    - Recovery heart shuffle (#840)
-
-    - [b80fad6c](http://github.com/gamestabled/OoT3D_Randomizer/commit/b80fad6cc94a6bfd1d29141ae471a0953b3207af)
-    - Fix equipment deletion patch (#841)'
-  updated: '2026-07-11T20:26:01Z'
-  version: Nightly-69edbe
-  version_title: Nightly-69edbe
+    - [abb37214](http://github.com/gamestabled/OoT3D_Randomizer/commit/abb3721490afa34f6f298bcaf0e7deb06198bb90)
+    - Add initialization checks for location table (#845)'
+  updated: '2026-07-19T21:59:16Z'
+  version: Nightly-171194
+  version_title: Nightly-171194
 qr:
   OoT3D_Randomizer.cia: https://db.universal-team.net/assets/images/qr/oot3d_randomizer-cia.png
 source: https://github.com/gamestabled/OoT3D_Randomizer
