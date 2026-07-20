@@ -21,6 +21,7 @@ forgejo: FelixHomebrew/CtrAlarmo
 forgejo_host: codeberg.org
 icon: https://codeberg.org/FelixHomebrew/CtrAlarmo/raw/branch/main/exefs/icon_48.png
 image: https://codeberg.org/FelixHomebrew/CtrAlarmo/raw/branch/main/exefs/banner.png
+image_length: 6751
 layout: app
 license: mit
 license_name: MIT License
