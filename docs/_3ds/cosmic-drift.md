@@ -20,7 +20,6 @@ downloads:
 github: lartodor/CosmicDrift-for-the-Nintendo-3DS
 icon: https://raw.githubusercontent.com/lartodor/CosmicDrift-for-the-Nintendo-3DS/main/icon.png
 image: https://raw.githubusercontent.com/lartodor/CosmicDrift-for-the-Nintendo-3DS/main/banner.png
-image_length: 4324
 layout: app
 llm_generation: unknown
 qr:
