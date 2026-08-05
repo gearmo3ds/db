@@ -29,6 +29,10 @@ prerelease:
       size: 23330366
       size_str: 22 MiB
       url: https://github.com/angband/angband/releases/download/4.2.6-171-g0b1135b2d/Angband-4.2.6-171-g0b1135b2d-nds.zip
+  update_notes: <p dir="auto">Incorporate borg.txt into binary releases by <a class="user-mention
+    notranslate" data-hovercard-type="user" data-hovercard-url="/users/agoodman00/hovercard"
+    data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/agoodman00">@agoodman00</a></p>
+  update_notes_md: 'Incorporate borg.txt into binary releases by @agoodman00 '
   updated: '2026-08-04T19:32:28Z'
   version: 4.2.6-171-g0b1135b2d
   version_title: 4.2.6-171-g0b1135b2d
