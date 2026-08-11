@@ -29,6 +29,33 @@ prerelease:
       size: 23330538
       size_str: 22 MiB
       url: https://github.com/angband/angband/releases/download/4.2.6-173-gdc40ec9e0/Angband-4.2.6-173-gdc40ec9e0-nds.zip
+  update_notes: '<h2 dir="auto">What''s Changed</h2>
+
+    <ul dir="auto">
+
+    <li>borg: get rid of the option to disallow graphics by <a class="user-mention
+    notranslate" data-hovercard-type="user" data-hovercard-url="/users/agoodman00/hovercard"
+    data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/agoodman00">@agoodman00</a>
+    in <a class="commit-link" data-hovercard-type="commit" data-hovercard-url="https://github.com/angband/angband/commit/f48a3bb6856638905a0b05ec48deec44324ba6c8/hovercard"
+    href="https://github.com/angband/angband/commit/f48a3bb6856638905a0b05ec48deec44324ba6c8"><tt>f48a3bb</tt></a></li>
+
+    <li>Mac workflow: avoid Homebrew''s warning about untrusted tap by <a class="user-mention
+    notranslate" data-hovercard-type="user" data-hovercard-url="/users/backwardsEric/hovercard"
+    data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/backwardsEric">@backwardsEric</a>
+    in <a class="issue-link js-issue-link" data-error-text="Failed to load title"
+    data-id="5064270897" data-permission-text="Title is private" data-url="https://github.com/angband/angband/issues/6678"
+    data-hovercard-type="pull_request" data-hovercard-url="/angband/angband/pull/6678/hovercard"
+    href="https://github.com/angband/angband/pull/6678">#6678</a></li>
+
+    </ul>'
+  update_notes_md: '## What''s Changed
+
+    * borg: get rid of the option to disallow graphics by @agoodman00 in https://github.com/angband/angband/commit/f48a3bb6856638905a0b05ec48deec44324ba6c8
+
+    * Mac workflow: avoid Homebrew''s warning about untrusted tap by @backwardsEric
+    in https://github.com/angband/angband/pull/6678
+
+    '
   updated: '2026-08-11T13:00:56Z'
   version: 4.2.6-173-gdc40ec9e0
   version_title: 4.2.6-173-gdc40ec9e0
