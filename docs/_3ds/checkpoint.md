@@ -314,9 +314,9 @@ update_notes: '<h3 dir="auto">FTP: What''s new</h3>
 
   <hr>
 
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/fd8268ca-7435-40fd-823d-6ce4f3c8e355"><img
-  width="203" height="199" alt="qr" src="https://github.com/user-attachments/assets/fd8268ca-7435-40fd-823d-6ce4f3c8e355"
-  style="max-width: 100%; height: auto; max-height: 199px;; aspect-ratio: 203 / 199;
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/45e2f983-428f-46eb-aeba-109ee8ca2f86"><img
+  width="190" height="195" alt="qr" src="https://github.com/user-attachments/assets/45e2f983-428f-46eb-aeba-109ee8ca2f86"
+  style="max-width: 100%; height: auto; max-height: 195px;; aspect-ratio: 190 / 195;
   background-color: var(--bgColor-muted); border-radius: 6px" class="js-gh-image-fallback"></a>
 
   <hr>
