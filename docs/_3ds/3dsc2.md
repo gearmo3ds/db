@@ -20,6 +20,7 @@ downloads:
 github: cylin577/3DSC2
 icon: https://raw.githubusercontent.com/cylin577/3DSC2/main/resources/icon.png
 image: https://raw.githubusercontent.com/cylin577/3DSC2/main/resources/banner.png
+image_length: 6706
 layout: app
 license: gpl-3.0
 license_name: GNU General Public License v3.0
@@ -37,6 +38,5 @@ update_notes: <p dir="auto">hotfix to DLL loding problem</p>
 updated: '2026-08-17T04:40:45Z'
 version: v1.1.2
 version_title: v1.1.2
-wiki: https://github.com/cylin577/3DSC2/wiki
 ---
 The calibration app for 3DSC2
