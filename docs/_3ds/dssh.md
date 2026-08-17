@@ -4,8 +4,6 @@ avatar: https://avatars.githubusercontent.com/u/147747767?v=4
 categories:
 - app
 - utility
-color: '#f8e3c6'
-color_bg: '#807566'
 created: '2026-05-01T05:16:15Z'
 description: Nintendo 3DS SSH client with on-screen pinyin IME, RSA auth, citro2d
   ANSI terminal, and a crab
@@ -23,7 +21,6 @@ downloads:
 github: Fishason/DSSH
 icon: https://raw.githubusercontent.com/Fishason/DSSH/refs/heads/main/icon.png
 image: https://raw.githubusercontent.com/Fishason/DSSH/refs/heads/main/icon.png
-image_length: 1188
 layout: app
 license: other
 license_name: Other

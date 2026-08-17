@@ -18,7 +18,6 @@ downloads:
 github: Oldhimaster1/MIVF
 icon: https://raw.githubusercontent.com/Oldhimaster1/MIVF/refs/heads/main/meta/icon48.png
 image: https://raw.githubusercontent.com/Oldhimaster1/MIVF/refs/heads/main/meta/banner.png
-image_length: 4907
 layout: app
 license: mit
 license_name: MIT License
