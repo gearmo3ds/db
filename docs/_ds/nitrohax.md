@@ -10,7 +10,7 @@ description: NitroHax cheat tool for Nintendo DS
 download_page: https://www.chishm.com/NitroHax/
 downloads:
   NitroHax.zip:
-    size: 11778
+    size: 11890
     size_str: 11 KiB
     url: https://www.chishm.com/NitroHax/NitroHax.zip
 github: chishm/nitrohax
