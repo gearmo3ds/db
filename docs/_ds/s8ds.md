@@ -14,6 +14,7 @@ downloads:
 github: FluBBaOfWard/S8DS
 icon: https://raw.githubusercontent.com/FluBBaOfWard/S8DS/main/Sms.bmp
 image: https://raw.githubusercontent.com/FluBBaOfWard/S8DS/main/Sms.bmp
+image_length: 630
 layout: app
 llm_generation: unknown
 source: https://github.com/FluBBaOfWard/S8DS
@@ -41,6 +42,7 @@ update_notes: '<ul dir="auto">
 updated: '2026-07-30T11:09:21Z'
 version: v1.1.8
 version_title: V1.1.8
+wiki: https://github.com/FluBBaOfWard/S8DS/wiki
 ---
 ### Installation instructions
 

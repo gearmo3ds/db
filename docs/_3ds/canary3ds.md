@@ -4,6 +4,8 @@ avatar: https://avatars.githubusercontent.com/u/117493082?v=4
 categories:
 - app
 - media
+color: '#9f9225'
+color_bg: '#80751e'
 created: '2024-07-11T18:52:09Z'
 description: A 3DS music player with modern features
 download_page: https://github.com/narayanx/Canary3DS/releases
@@ -80,4 +82,5 @@ update_notes: '<h2 dir="auto">Added</h2>
 updated: '2026-08-02T07:48:58Z'
 version: v1.3.0
 version_title: Canary v1.3.0
+wiki: https://github.com/narayanx/Canary3DS/wiki
 ---

@@ -4,8 +4,6 @@ avatar: https://avatars.githubusercontent.com/u/293414143?v=4
 categories:
 - game
 - app
-color: '#7dd9cb'
-color_bg: '#498077'
 created: '2026-06-20T15:29:20Z'
 description: 'A virtual StreePass pet for Nintendo 3DS '
 download_page: https://github.com/PetPal-Team/PetPal/releases
@@ -21,6 +19,7 @@ downloads:
 github: PetPal-Team/PetPal
 icon: https://raw.githubusercontent.com/PetPal-Team/PetPal/refs/heads/main/Pet%20Pal.png
 image: https://raw.githubusercontent.com/PetPal-Team/PetPal/refs/heads/main/banner.png
+image_length: 25573
 layout: app
 license: mit
 license_name: MIT License

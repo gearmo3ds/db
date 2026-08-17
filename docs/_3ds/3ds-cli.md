@@ -3,6 +3,8 @@ author: cmdada
 avatar: https://avatars.githubusercontent.com/u/79297197?v=4
 categories:
 - emulator
+color: '#433943'
+color_bg: '#433943'
 created: '2026-05-10T04:52:37Z'
 description: Nintendo 3DS homebrew application that embeds a full RISC-V emulator
   to boot a Linux environment inside the 3DS Horizon OS.
