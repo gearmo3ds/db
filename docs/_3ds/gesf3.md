@@ -3,8 +3,6 @@ author: Foxy-no
 avatar: https://avatars.githubusercontent.com/u/285444088?v=4
 categories:
 - utility
-color: '#467556'
-color_bg: '#467556'
 created: '2026-05-17T20:15:46Z'
 description: GBA EEPROM Save Fixer 3DS
 download_page: https://github.com/Foxy-no/GESF3/releases
