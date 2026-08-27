@@ -6,7 +6,7 @@ categories:
 color: '#433943'
 color_bg: '#433943'
 created: '2026-05-10T04:52:37Z'
-description: Run full RISCV Linux on (almost) every single Nintendo console
+description: Run full RISCV Linux on many game consoles
 download_page: https://github.com/cmdada/3DS-CLI/releases
 downloads:
   3ds_cli.zip:
