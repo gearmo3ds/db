@@ -24,16 +24,16 @@ image_length: 17026
 layout: app
 llm_generation: unknown
 prerelease:
-  download_page: https://github.com/LuMariGames/TJAP_3DS/releases/tag/v2.4.0B
+  download_page: https://github.com/LuMariGames/TJAP_3DS/releases/tag/v2.4.1
   downloads:
     TJAP_3DS.3dsx:
-      size: 9896332
+      size: 9896528
       size_str: 9 MiB
-      url: https://github.com/LuMariGames/TJAP_3DS/releases/download/v2.4.0B/TJAP_3DS.3dsx
+      url: https://github.com/LuMariGames/TJAP_3DS/releases/download/v2.4.1/TJAP_3DS.3dsx
     TJAP_3DS.cia:
       size: 10056640
       size_str: 9 MiB
-      url: https://github.com/LuMariGames/TJAP_3DS/releases/download/v2.4.0B/TJAP_3DS.cia
+      url: https://github.com/LuMariGames/TJAP_3DS/releases/download/v2.4.1/TJAP_3DS.cia
   qr:
     TJAP_3DS.cia: https://db.universal-team.net/assets/images/qr/prerelease/tjap_3ds-cia.png
   update_notes: '<h2 dir="auto">チェンジログ</h2>
@@ -47,6 +47,10 @@ prerelease:
     <li>紫音符(カドン)の追加<br>
 
     ドンとカッを同時押しすると反応します。</li>
+
+    <li>譜面が入っていない際の案内文が正しく表示されない不具合の修正</li>
+
+    <li>譜面が入っていない際の案内文に翻訳を追加しました。</li>
 
     </ul>
 
@@ -63,6 +67,11 @@ prerelease:
 
     It responds when you press Don and Ka simultaneously.</li>
 
+    <li>Fixed a bug where the message displayed when a tja file was missing was not
+    displayed correctly.</li>
+
+    <li>Added a translation to the message displayed when a tja file is missing.</li>
+
     </ul>'
   update_notes_md: '## チェンジログ
 
@@ -74,6 +83,10 @@ prerelease:
 
     ドンとカッを同時押しすると反応します。
 
+    - 譜面が入っていない際の案内文が正しく表示されない不具合の修正
+
+    - 譜面が入っていない際の案内文に翻訳を追加しました。
+
 
     ## Changelog
 
@@ -83,10 +96,15 @@ prerelease:
 
     - Added purple note (KaDon)
 
-    It responds when you press Don and Ka simultaneously.'
-  updated: '2026-09-16T02:14:18Z'
-  version: v2.4.0B
-  version_title: TJAPlayer for 3DS v2.4.0(B)
+    It responds when you press Don and Ka simultaneously.
+
+    - Fixed a bug where the message displayed when a tja file was missing was not
+    displayed correctly.
+
+    - Added a translation to the message displayed when a tja file is missing.'
+  updated: '2026-09-26T01:04:29Z'
+  version: v2.4.1
+  version_title: TJAPlayer for 3DS v2.4.1
 qr:
   TJAP_3DS.cia: https://db.universal-team.net/assets/images/qr/tjap_3ds-cia.png
 screenshots:
