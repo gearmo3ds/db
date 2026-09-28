@@ -1,6 +1,6 @@
 ---
 author: Sorunome
-avatar: https://gitlab.com//uploads/-/system/user/avatar/2871656/avatar.png?v=1790473062
+avatar: https://gitlab.com//uploads/-/system/user/avatar/2871656/avatar.png?v=1790559462
 categories:
 - utility
 color: '#b2d3a5'
@@ -34,9 +34,7 @@ systems:
 title: CEC Tool
 unique_ids:
 - '0xF6575'
-update_notes: '<p>Initial release</p>
-
-  '
+update_notes: <p data-sourcepos="1:1-1:15" dir="auto">Initial release</p>
 updated: '2025-10-31T17:25:40.460Z'
 version: v0.1.0
 version_title: v0.1.0
