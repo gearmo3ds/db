@@ -69,6 +69,8 @@ update_notes: '<div class="markdown-alert markdown-alert-caution" dir="auto"><p 
 
   <li>Fixed Mii Introductions being invisible sometimes</li>
 
+  <li>Added proper DNF times for 5 min + 30s timeout finish</li>
+
   <li>Added Render Optimizations (disables 3D during the race)</li>
 
   <li>Added Community Host-Only Timer + No Auto Timer Start</li>
